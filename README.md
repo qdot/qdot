@@ -22,7 +22,7 @@ I'm available for consulting in Haptics, VR, Virtual Worlds, hardware/driver dev
 
 If you like my work but are just interested in sponsoring instead of consulting, you can [sponsor me on github](https://github.com/sponsors/qdot)! There are tier levels with perks like stickers, credits in my youtube videos, and 1:1 video conferences!
 
-<p align="center"><img src="https://github.com/qdot/qdot/blob/main/patreon.png?raw=true" alt="Patreon"></p>
+<p align="center"><img src="https://github.com/qdot/qdot/blob/main/patreon.png?raw=true" alt="Patreon" width="200" height="200"></p>
 
 If Patreon works better for you:
 
