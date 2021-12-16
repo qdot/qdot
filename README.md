@@ -1,5 +1,7 @@
 # About Me
 
+<img src="https://github.com/qdot/qdot/blob/main/qdotpixelfox.png?raw=true" align="right">
+
 Hi! I'm qDot (aka Kyle Machulis). I code all sorts of stuff, these days mostly in Rust.
 
 You may know me from such open source projects as:
