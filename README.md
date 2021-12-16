@@ -14,6 +14,8 @@ You may know me from such open source projects as:
 
 # Ways to Hire Me or Sponsor My Work
 
+[![Nonpolynomial Logo](https://github.com/qdot/qdot/blob/main/nonpolynomial-logo-final.png?raw=true)](https://nonpolynomial.com)
+
 I'm available for consulting in Haptics, VR, Virtual Worlds, hardware/driver development, and other topics via my company, [Nonpolynomial](https://nonpolynomial.com).
 
 If you like my work but are just interested in sponsoring instead of consulting, you can [sponsor me on github](https://github.com/sponsors/qdot)! There are tier levels with perks like stickers, credits in my youtube videos, and 1:1 video conferences!
