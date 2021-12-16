@@ -2,13 +2,15 @@
 
 Hi! I'm qDot (aka Kyle Machulis). I code all sorts of stuff, these days mostly in Rust.
 
-You may know me from such projects as:
+You may know me from such open source projects as:
 
 - [Buttplug Intimate Haptics](https://github.com/buttplugio)
 - [blteplug Cross-Platform Bluetooth LE Library](https://github.com/deviceplug/btleplug)
 - [libnifalcon Novint Falcon Drivers](https://github.com/libnifalcon)
-- [OpenKinect Microsoft Kinect Drivers](https://github.com/openkinect)
 - [Various parts of the Firefox Web Browser](https://github.com/mozilla)
+- [OpenYou Health/QuantifiedSelf Projects](https://openyou.org)
+- [OpenKinect Microsoft Kinect Drivers](https://github.com/openkinect)
+- Who knows what else, I get up to a lot...
 
 # Ways to Hire Me or Sponsor My Work
 
