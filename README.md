@@ -14,7 +14,7 @@ You may know me from such open source projects as:
 
 # Ways to Hire Me or Sponsor My Work
 
-[![Nonpolynomial Logo](https://github.com/qdot/qdot/blob/main/nonpolynomial-logo-final.png?raw=true)](https://nonpolynomial.com)
+[![Nonpolynomial Logo](https://github.com/qdot/qdot/blob/main/nonpolynomial-logo-final.png?raw=true =300x300)](https://nonpolynomial.com)
 
 I'm available for consulting in Haptics, VR, Virtual Worlds, hardware/driver development, and other topics via my company, [Nonpolynomial](https://nonpolynomial.com).
 
