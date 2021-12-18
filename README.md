@@ -17,6 +17,7 @@ You may know me from such open source projects as:
 * 🦊 [Various parts of the Firefox Web Browser](https://github.com/mozilla)
 * 🏥 [OpenYou Health/QuantifiedSelf Projects](https://openyou.org)
 * 📹 [OpenKinect Microsoft Kinect Drivers](https://github.com/openkinect)
+* ⌨️ [Deldo Emacs Teledildonics Package](https://github.com/qdot/deldo)
 * ❓ Who knows what else, I get up to a lot...
 
 # Ways to Hire Me or Sponsor My Work
