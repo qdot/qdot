@@ -35,6 +35,8 @@ I'm available for consulting in Haptics, VR, Virtual Worlds, hardware/driver dev
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qdot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Github README Stats](https://github-readme-stats.vercel.app/api?username=qdot&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats/)
+
 # Art Credits
 
 Profile Pic by [Gavin](https://twitter.com/gavunimpressive)
