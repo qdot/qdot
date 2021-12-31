@@ -7,6 +7,9 @@
 [![GitHub qdot](https://img.shields.io/github/followers/qdot?label=follow&style=social)](https://github.com/qdot)
 [![Linkedin: kylemachulis](https://img.shields.io/badge/-kylemachulis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kylemachulis/)](https://www.linkedin.com/in/kylemachulis/)
 
+[![Youtube: Buttpluggin' With qDot](https://img.shields.io/youtube/channel/subscribers/UCKLmntfj3NmM2E3_LB3qs-w?label=Buttpluggin%27%20With%20qDot&style=social)](https://youtube.buttplug.io)
+[![Youtube: Poor Life Choices](https://img.shields.io/youtube/channel/subscribers/UCEOH7Ne1LflFosQTpzM0ZrA?label=Poor%20Life%20Choices&style=social)](https://www.youtube.com/channel/UCEOH7Ne1LflFosQTpzM0ZrA)
+
 Hi! I'm qDot (aka Kyle Machulis). I code all sorts of stuff, these days mostly in Rust.
 
 You may know me from such open source projects as:
