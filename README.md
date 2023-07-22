@@ -3,7 +3,7 @@
 <img src="https://github.com/qdot/qdot/blob/main/qdotpixelfox.png?raw=true" align="right">
 
 [![Twitter: qDot](https://img.shields.io/twitter/follow/qdot?style=social)](https://twitter.com/qdot)
-[![Mastodon: qDot](https://img.shields.io/mastodon/follow/110376500076540204?domain=buttplug.engineer)](https://buttplug.engineer/@qdot)
+[[![Mastodon: qDot](https://img.shields.io/mastodon/follow/110376500076540204?domain=https%3A%2F%2Fbuttplug.engineer&style=social)]](https://buttplug.engineer/@qdot)
 [![GitHub qdot](https://img.shields.io/github/followers/qdot?label=follow&style=social)](https://github.com/qdot)
 [![Linkedin: kylemachulis](https://img.shields.io/badge/-kylemachulis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kylemachulis/)](https://www.linkedin.com/in/kylemachulis/)
 
