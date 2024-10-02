@@ -9,6 +9,7 @@
 
 [![Youtube: Buttpluggin' With qDot](https://img.shields.io/youtube/channel/subscribers/UCKLmntfj3NmM2E3_LB3qs-w?label=Buttpluggin%27%20With%20qDot&style=social)](https://youtube.buttplug.io)
 [![Youtube: Poor Life Choices](https://img.shields.io/youtube/channel/subscribers/UCEOH7Ne1LflFosQTpzM0ZrA?label=Poor%20Life%20Choices&style=social)](https://www.youtube.com/channel/UCEOH7Ne1LflFosQTpzM0ZrA)
+![Twitch Status: qdotsfoxmovers](https://img.shields.io/twitch/status/qdotsfoxmovers)
 
 Hi! I'm qDot (aka Kyle Machulis). I code all sorts of stuff, these days mostly in Rust.
 
@@ -22,6 +23,10 @@ You may know me from such open source projects as:
 * 📹 [OpenKinect Microsoft Kinect Drivers](https://github.com/openkinect)
 * ⌨️ [Deldo Emacs Teledildonics Package](https://github.com/qdot/deldo)
 * ❓ Who knows what else, I get up to a lot...
+
+# Code Streams
+
+Interested in watching me work? [I now do coding livestreams on Twitch!](https://twitch.tv/qdotsfoxmovers)
 
 # Ways to Hire Me or Sponsor My Work
 
