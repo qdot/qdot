@@ -26,7 +26,11 @@ You may know me from such open source projects as:
 
 # Code Streams
 
-Interested in watching me work? [I now do coding livestreams on Twitch!](https://twitch.tv/qdotsfoxmovers)
+Interested in watching me code? 
+
+Or at least try to code while random people talk at me/make sounds play/other general types of chaos? 
+
+[![Twitch: qdotsfoxmovers](/twitch.png)](https://twitch.tv/qdotsfoxmovers) [I now do coding livestreams on Twitch!](https://twitch.tv/qdotsfoxmovers) [![Twitch: qdotsfoxmovers](/twitch.png)](https://twitch.tv/qdotsfoxmovers)
 
 # Ways to Hire Me or Sponsor My Work
 
