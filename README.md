@@ -30,7 +30,7 @@ Interested in watching me code?
 
 Or at least try to code while random people talk at me/make sounds play/other general types of chaos? 
 
-[![Twitch: qdotsfoxmovers](/twitch.png)](https://twitch.tv/qdotsfoxmovers) [I now do coding livestreams on Twitch!](https://twitch.tv/qdotsfoxmovers) [![Twitch: qdotsfoxmovers](/twitch.png)](https://twitch.tv/qdotsfoxmovers)
+[I now do coding livestreams on Twitch!](https://twitch.tv/qdotsfoxmovers)
 
 # Ways to Hire Me or Sponsor My Work
 
