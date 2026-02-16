@@ -1,7 +1,6 @@
 # About Me
 
 <img src="https://github.com/qdot/qdot/blob/main/qdotpixelfox.png?raw=true" align="right">
-https://img.shields.io/bluesky/followers/buttplug.engineer
 
 [![Bluesky: @buttplug.engineer](https://img.shields.io/bluesky/followers/buttplug.engineer)](https://bsky.app/profile/buttplug.engineer)
 [![Mastodon: qdot@buttplug.engineer](https://img.shields.io/mastodon/follow/110376500076540204?domain=https%3A%2F%2Fbuttplug.engineer&style=social)](https://buttplug.engineer/@qdot)
