@@ -44,12 +44,6 @@ I'm available for consulting in Haptics, VR, Virtual Worlds, hardware/driver dev
 | [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/qdot) | If Patreon works better for you, I've got one for [my virtual world and DIY hardware (SFW) work](https://patreon.com/poor_life_choices), and one for [my Intimate Haptics (NSFW) work](https://patreon.com/qdot) |
 | [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/qdot76367) | If you're just interested in a one-off donation, [I've got a Ko-Fi page just for that](https://ko-fi.com/qdot76367), which is a great way to donate and also get stickers or other perks without having a recurring donation. |
 
-# Silly Github Profile Widgets
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=qdot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Github README Stats](https://github-readme-stats.vercel.app/api?username=qdot&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats/)
-
 # Art Credits
 
 Profile Pic by [Gavin](https://twitter.com/gavunimpressive)
